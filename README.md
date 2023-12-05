@@ -22,5 +22,4 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 - Staff
 - Store
 # Visualizations
-Visualizations were created in Tableau. The link to the storyboard can be found here: [Rockbuster Stealth Presentation](file:///C:/Users/Admin/Documents/CareerFoundry/Part%202/Achievement%203/Task%203.10/ROCKBUSTER%20STEALTH%20DATA%20AND%20MARKET%20ANALYSIS.pdf)
-[Tableau Visuals](https://public.tableau.com/app/profile/ubaniomate.apeji/viz/Task3_10_16960354993690/Map)
+Visualizations were created in Tableau. The link to the storyboard can be found here:[Tableau Visuals](https://public.tableau.com/app/profile/ubaniomate.apeji/viz/Task3_10_16960354993690/Map)
